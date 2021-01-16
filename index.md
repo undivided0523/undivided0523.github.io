@@ -1,4 +1,7 @@
-# In-Sun Song's Page
+---
+title: In-Sun's Page
+layout: default
+---
 
 * Research Interest
   * AAA
