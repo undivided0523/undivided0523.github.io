@@ -55,7 +55,7 @@ a {
 
 header {
   padding-top: 35px;
-  padding-bottom: 30px;
+  padding-bottom: -30px;
 }
 
 header h1 {
@@ -132,7 +132,7 @@ form {
 /* GENERAL ELEMENT TYPE STYLES */
 
 h1 {
-  font-size: 2.8em;
+  font-size: 2em;
 }
 
 h2 {
