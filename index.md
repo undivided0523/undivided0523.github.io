@@ -1,4 +1,4 @@
-* Research Interest\
+* Research Interest
   * AAA
   * BBB
   * CCC
