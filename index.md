@@ -1,8 +1,3 @@
----
-title: In-Sun's Page
-layout: default
----
-
 * Research Interest
   * AAA
   * BBB
