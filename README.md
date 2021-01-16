@@ -1,1 +1,1 @@
-# undivided.github.io
+# undividedlife.github.io
