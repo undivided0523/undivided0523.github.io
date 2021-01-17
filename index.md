@@ -36,7 +36,7 @@ This page describes In-Sun's contact info, careers, research interest, his lectu
 
 ## Lectures
 
-* Upper Atmosphere (고층대기)
+* Upper Atmosphere (고층대기)  [Syllabus](/lectures/upperatm.pdf)
 * Applied Mathematics in Atmospheric Sciences (기상응용수학)
 * Fortran programming (전자계산2)
 
