@@ -18,17 +18,17 @@ This page describes In-Sun's contact info, careers, research interest, his lectu
 
 ## Research Interest
 
-* Global structure of atmospheric wave phenomena
+* **Global structure of atmospheric wave phenomena**
   * Tidal, Rossby and mesoscale waves and their impacts in the upper atmosphere
   * Energy transfer from the large-scale flow to the mesoscale wave regime
   * Low-frequency (near-inertial) waves in the upper atmosphere
   * Free Rossby waves and forced Rossby waves of mesoscale origin
-* Middle and upper atmosphere global modeling
+* **Middle and upper atmosphere global modeling**
   * Idealized whole atmosphere general circulation modeling
   * Global whole atmosphere and chemical simulations using WACCM (or WACCM-X)
   * Top-down effects of solar-cycle UV variations on climate variability
   * Roles of atmospheric wave dynamics in the top-down effects
-* Dynamical processes and numerics in global atmospheric models
+* **Dynamical processes and numerics in global atmospheric models**
   * Spherical harmonic (SI-SL) or spectral element dynamical core
   * Horizontally structured (lat-long) or unstructured (cubed-sphere) grid
   * Vertical grid structure, internally-generated QBO, and energy spectra
@@ -42,10 +42,10 @@ This page describes In-Sun's contact info, careers, research interest, his lectu
 
 ## Recent research projects
 
-* Next generation space environment prediction and research _funded by Korea Astronomy and Space Science_ (2021-)
-* Investigation of correlation between occurrence of aurorae and upper-atmospheric disturbances and climate variability _funded by Korea Polar Research Institute_ (2020-)
-* Impacts of solar cycle variations in the polar and global climate variability _funded by Korea Polar Research Institute_ (2018-2020)
-* Research for development of technologies for space weather _funded by National Meteorological Satellite Center, KMA_ (2017-2019)
+* Next generation space environment prediction and research _funded by Korea Astronomy and Space Science Institute (KASI)_ (2021-)
+* Investigation of correlation between occurrence of aurorae and upper-atmospheric disturbances and climate variability _funded by Korea Polar Research Institute_ (KOPRI) (2020-)
+* Impacts of solar cycle variations in the polar and global climate variability _funded by Korea Polar Research Institute (KOPRI)_ (2018-2020)
+* Research for development of technologies for space weather _funded by National Meteorological Satellite Center (NMSC), Korea Meteorological Administration (KMA)_ (2017-2019)
 
 ## Publications
 
