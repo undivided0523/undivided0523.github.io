@@ -1,49 +1,35 @@
 This page describes XXX.
+This page describes XXX.
+This page describes XXX.
+This page describes XXX.
 
 ## Contact
 
-Name: In-Sun Song
-
-Work: Department of Atmospheric Sciences, Yonsei University
-
-Office: RM548, Science Hall, Seodaemun-gu, Seoul, Korea, 03722
-
-Email: songi@yonsei.ac.kr
-
-
+* Name: In-Sun Song
+* Work: Department of Atmospheric Sciences, Yonsei University
+* Office: Room 548, Science Hall, Seodaemun-gu, Seoul, Korea, 03722
+* Phone: +82-2-2123-XXXX
+* Email: songi@yonsei.ac.kr
 
 ## Research Interest
 
-AAA
-
-BBB
-CCC
-
-DDD
-
-
+* AAA
+* BBB
+* CCC
+* DDD
 
 ## Lectures
 
-Upper Atmosphere (고층대기)
-
-Applied Mathematics in Atmospheric Sciences (기상응용수학)
-
-Fortran programming (전자계산2)
-
-
+* Upper Atmosphere (고층대기)
+* Applied Mathematics in Atmospheric Sciences (기상응용수학)
+* Fortran programming (전자계산2)
 
 ## Research projects
 
-AAA
-
-CCC
-
-FFF
-
-GGG
-
-
+* AAA
+* CCC
+* FFF
+* GGG
 
 ## Publications
 
@@ -51,6 +37,3 @@ GGG
 2. bbb
 3. ccc
 4. ddd
-
-
-
