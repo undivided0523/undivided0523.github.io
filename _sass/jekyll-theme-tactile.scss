@@ -345,12 +345,10 @@ blockquote {
   padding-left: 20px;
 } */
 
-ul li span {
-  position: relative;
-  list-style-position: inside;
+ul li {
   list-style: disc;
-  padding-left: 50px;
-  left: -10px;
+  padding-left: 20px;
+  text-indent: -10px;
 }
 
 ol li {
