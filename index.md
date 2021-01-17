@@ -12,9 +12,9 @@ This page describes In-Sun's contact info, careers, research interest, his lectu
 
 * Department of Atmospheric Sciences, Yonsei University (MAR 2021 -)
 * Korea Polar Research Institute (APR 2015 - FEB 2021)
-* Korea Institute of Atmospheric Prediction Systems (MAY 2011 - APR 2011)
-* NASA Goddard Space Flight Center, Global Modeling and Assimilation Office (FEB 2007 - APR 2011)
-* Institute of Natural Science, Yonsei University (MAR 2005 - FEB 2007)
+* Korea Institute of Atmospheric Prediction Systems, Korea Meteorological Administration (MAY 2011 - APR 2011)
+* Global Modeling and Assimilation Office, NASA Goddard Space Flight Center, USA (FEB 2007 - APR 2011)
+* Institute of Natural Sciences, Yonsei University (MAR 2005 - FEB 2007)
 
 ## Research Interest
 
