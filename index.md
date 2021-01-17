@@ -1,4 +1,9 @@
-### Contact
+---
+title: In-Sun Song's Page
+---
+
+
+## Contact
 
 Name: In-Sun Song
 
@@ -10,7 +15,7 @@ Email: songi@yonsei.ac.kr
 
 
 
-### Research Interest
+## Research Interest
 
 AAA
 
@@ -21,7 +26,7 @@ DDD
 
 
 
-### Lectures
+## Lectures
 
 Upper Atmosphere (고층대기)
 
@@ -31,7 +36,7 @@ Fortran programming (전자계산2)
 
 
 
-### Research projects
+## Research projects
 
 AAA
 
@@ -43,7 +48,7 @@ GGG
 
 
 
-### Publications
+## Publications
 
 1. aaa
 2. bbb
