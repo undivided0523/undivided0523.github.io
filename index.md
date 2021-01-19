@@ -38,7 +38,7 @@ This page describes In-Sun's contact info, careers, research interest, lectures 
 
 * Upper Atmosphere (고층대기) 
   *  Syllabus: [2021-Spring](/lectures/upperatm_2021spring.pdf)
-* Applied Mathematics in Atmospheric Sciences (기상응용수학)
+* Applied Mathematical Methods in Atmospheric Sciences (기상응용수학)
   * Syllabus: [2021-Spring](/lectures/appmathatm_2021spring.pdf)
 * Fortran programming (전자계산2)
   * Syllabus: [2021-Spring](/lectures/fortran_2021spring.pdf)
